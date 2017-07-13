@@ -1,12 +1,16 @@
-<div class="flex-m mhn3-m mb4">
+<div class="container">
 
-  <div class="ph3-m w-50-m order-last-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
+<div class="col-lg-12">
+
+  <div>
+    <img width="500px" src="{{.imageUrl}}" alt="{{ .title }}" class="img-thumbnail rounded float-right ml-3 mb-3">
   </div>
 
-  <div class="ph3-m w-50-m">
-    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
+  <div>
+    <h3 class="mb-1">{{.heading}}</h3>
     <p>{{.text}}</p>
   </div>
+  <hr class="small">
 
+</div>
 </div>

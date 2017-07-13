@@ -1,17 +1,14 @@
-<div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
-
-		<h2 class="f2 b lh-title mb3">Latests stories</h1>
-
-		<div class="bt bb b--black-10">
-			{{ range where .Data.Pages "Type" "post" }}
+<div class="container">
+<div class="row">
+        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+        <h1 class="display-3 text-center mb-5">Latest Posts</h1>
+            <div class="post-preview">
+            	{{ range where .Data.Pages "Type" "post" }}
 					{{ .Render "li" }}
-			{{ end }}
-		</div>
-
-		<div class="tc">
-			<a href="/post" class="btn raise">Read more</a>
-		</div>
-
-	</div>
+				{{ end }}
+        </div>
+        <hr>
+        <a class="btn btn-primary text-right" href="/post">More Posts <i class="fa fa-caret-right" aria-hidden="true"></i></a>
+    </div>
 </div>
+
