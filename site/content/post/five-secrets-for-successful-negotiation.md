@@ -16,7 +16,7 @@ Here are five tips for negotiating successfully.
 Before entering into a negotiation, arm yourself with factual information. Get as much information as you can that is relevant to the subject of negotiations. This also involves asking yourself a series of tough questions. Why do you want to do this deal? Why does the other side want to do it? What's in it for everyone? Then work to get information that benefits not only your position but theirs, as well. Having facts on your side gives you a position of strength and instills confidence.
 
 
-![Five Secrets for Successful Negotiation](/img/5%20secrets%20for%20successful%20negotiation.png)
+![Five Secrets for Successful Negotiation](/img/negotiation.png)
 
 ### 2. Decide what you want to achieve before you begin
 
