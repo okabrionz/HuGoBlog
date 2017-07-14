@@ -5,7 +5,7 @@ description: >-
   The word "negotiation" can conjure up negative images of conflict and
   struggle. But successful negotiation is about discussion aimed at reaching an
   agreement.
-image: null
+image: /img/negotiations-1781602_1280.jpg
 ---
 An adept negotiator uses skillful techniques to reach a deal without aggression. While negotiation skills can require some practice, becoming a good negotiator is within reach. It just requires following some basic guidelines that focus on the ultimate goal: successfully reaching an agreement acceptable to both parties.
 
@@ -33,5 +33,6 @@ Research data provides an interesting revelation about negotiations. Many times,
 ### 5. Get a decision
 
 All of the brilliant planning, strategy, and tactics employed by the most skillful negotiator are meaningless without an agreement. This can often happen when the other side just can't get to a decision. Indecision can come from many places, but as a negotiator, you should be prepared for it in advance. Make the decision part of the negotiation, and do it early in the process. Set a timeline, discuss the criteria, map out the hurdles that might delay getting a final agreement approved and implemented.
+
 
 
