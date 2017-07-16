@@ -18,7 +18,7 @@ In case the company does not provide this standard, but don’t be scared to ask
 
 ### Seoul, South Korea 1900 - Now
 
-![South Korea](/img/south-korea.jpg)
+{{< img src="/img/south-korea.jpg" alt="South Korea" >}}
 
 If you go to Seoul to the party, you won’t be let down. At any time you visit Seoul, you are going to have a superb time. Offering many goods from the antiques to the newest in fashion and pricing which range from bargain rates to top end exclusive rates, Seoul is a heaven for shoppers. It has a lot of parks too. Thirty-eight years back, Seoul was destroyed by Korean War, but it rebuilt in record time. It is the place to be! Seoul has some the exciting sightseeing spots which cannot be missed out during your visit to this city.
 
@@ -38,7 +38,8 @@ The town provides a splendid mixture of historical landmarks and top tourist att
 
 ### Los Angels, USA 1940 - Now
 
-![Los Angels](/img/los-angels.jpg)
+{{< img src="/img/los-angels.jpg" alt="Los Angels" >}}
+
 
 As a means to understand the larger picture of Los Angeles totally, you have to know how the city moves in and out of its nearby landscape. It is likewise called the City of Angels. Today the city is known to be among the most progressive cities on earth, because of the simple fact that it’s the middle of national and in addition to international entertainment. Many of the smaller cities are, the larger ones, and hence, development prices are likely to be high. It’s a big town in Mexico and is a link to all other big Mexican cities. Seeing as you’re in Los Angeles, going to the upmarket and star-studded neighborhood named Beverly Hills is essential. Los Angeles remains an extremely attractive market for people who can afford it. Los Angeles is among the most critical areas to visit, in every corner you’re able to experience a different culture. All through the calendar year, Los Angeles is where to be. Although far taken out of the Midwest, Los Angeles wasn’t immune to the labor unrest. Los Angeles, California has at all times been among the most-visited places in America.
 
@@ -50,7 +51,7 @@ California also happens to be among the states with a tall proportion of unemplo
 
 ### London, UK 1920 — Now
 
-![London](/img/london.jpg)
+{{< img src="/img/london.jpg" alt="London" >}}
 
 London, UK
 
@@ -70,7 +71,7 @@ Explore the options below to discover which way of getting to London City is rig
 
 ### Dubai, UAE
 
-![Dubai](/img/dubai.jpg)
+{{< img src="/img/dubai.jpg" alt="Dubai" >}}
 
 Dubai, UAE
 
@@ -90,7 +91,7 @@ Civil engineering, such as another branch of engineering, has come to be among t
 
 Berlin, Germany 1945 - 1990 s
 
-![Berlin, Germany](/img/germany.jpg)
+{{< img src="/img/germany.jpg" alt="Berlin, Germany" >}}
 
 Amsterdam’s red light district has turned into a significant tourist attraction. The city is also famed for Charles University, among the world’s oldest. It offers vibrant destinations, lots of entertainment and cultural delights. If you love this city, remove your free change and aspire to return to this lovely place. Would be fun also to stop by my friends that are already living and working in this fantastic city. Enjoy a pleasant stroll using this massive park. Table Mountain is a well-liked tourist destination.
 
@@ -110,7 +111,7 @@ You see, it’s challenging to describe. You aren’t holding accountable.” Th
 
 ### Shenzen, China 1964 - Now
 
-![Shenzen, China](/img/shenzen.jpg)
+{{< img src="/img/shenzen.jpg" alt="Shenzen, China" >}}
 
 Today it’s a famed modern city. It’s often much faster to select the metro to receive near your destination in Shenzhen and have a taxi from that point. Metro is the optimal/optimally transportation option to visit the fairground, while many hotels offer completely free shuttle services.
 
@@ -129,7 +130,7 @@ The location supplies the best place among the industry community and effortless
 
 ### Sydney, Australia 1932 - Now
 
-![Sydney, Australia](/img/sydney.jpg)
+{{< img src="/img/sydney.jpg" alt="Sydney, Australia" >}}
 
 Would be fun also to stop by my friends that are already living and working in this amazing city. The coastal city is certainly the ideal location for this. You’ve got many reasons to see the lovely town of Sydney.
 
@@ -147,7 +148,7 @@ Manly Beach is situated in the Northern portion of Sydney and is also reachable 
 
 ### Shanghai, China 1987 - Now
 
-![Shanghai, China](/img/shanghai.jpg)
+{{< img src="/img/shanghai.jpg" alt="Shanghai, China" >}}
 
 The city provides world-class infrastructure and quite an efficient public transport system. It follows that the city has nothing for the interest of pleasure and tourism. In any case, German cities are well connecting to prominent destinations of the planet, which only adds to their credit score.
 
@@ -165,7 +166,7 @@ What a lovely life and a beautiful soul. Since the biggest financial and profita
 
 ### Singapore 2000 - Now
 
-![Singapore](/img/singapore.jpg)
+{{< img src="/img/singapore.jpg" alt="Singapore" >}}
 
 The city provides an impressive culture drenched city with some remarkable shopping Caribbean. It also offers plenty of accommodations. Ever Since then it has grown into one of the world’s most prosperous cities, called the Lion City. Among the costliest cities on earth, there are lots of things that one needs to remember before selecting students home to make certain that you choose one that falls in your budget.
 
