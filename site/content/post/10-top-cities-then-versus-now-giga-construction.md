@@ -6,7 +6,7 @@ description: >-
   It’s easy to plan a new town as the city can be set up with the right thought
   and planning. Every year, lots of people come to this worldwide power city to
   create their luck.
-image: null
+image: /img/new-york.jpg
 ---
 You can remain in New York in a fully-furnished apartment, and be in a position to cook and relax and feel as though you are in an actual residence. New York is on a large all-natural harbor. It is one of the most prominent cities in the world. New York is among the fantastic cultural centers on earth. It is the heart of the New York Metropolitan area, which is the largest, by population, metropolitan area in the world, and is the largest city, by population, in the US.
 
@@ -176,3 +176,4 @@ If you’re planning to see all the museums or wish to go to the museums more th
 
 
 No, you must escape from the nation. Besides the attractions in these, Carrantuohill, the maximum peak in the land, which is ideal for hiking. In the 1960s as a \`newly industrialized nation’ Singapore attracted a big number of multi-national businesses and foreign direct investment companies, which allowed the country’s industrial center to remove.
+
